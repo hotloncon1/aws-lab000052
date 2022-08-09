@@ -10,7 +10,7 @@ chapter = false
 
 In this lab, you will learn how to create an AWS Lambda function that is triggered when files are uploaded to an Amazon S3 bucket. You will upload your code for the Lambda function, and then manually wire-up an S3 event trigger to invoke the function and view the output logs. Then you will iterate on the code to add functionality to allow it to process files of different types - specifically, to create thumbnails for JPG images, and delete all other file types. Finally, you will create a deployment package and automate the deployment of the function and associated triggers and S3 buckets, using the AWS CLI.
 
-![Architecture](/images/1-introduction/info.png?featherlight=false&width=90pc)
+![Architecture](/images/1-introduction/info.png?featherlight=false&width=60pc)
 
 #### Content:
 

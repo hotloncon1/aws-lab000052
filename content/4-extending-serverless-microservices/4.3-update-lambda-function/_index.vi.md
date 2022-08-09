@@ -23,6 +23,6 @@ Thay **<REPLACE_LAMBDA_FUNCTION_NAME>** bằng tên của **Lambda Function** c�
 Thay **<REPLACE_S3_BUCKET_NAME>** bằng **idevelop-imagemanager-<YOUR_ACCOUNT_ID>** (tên của S3 bucket được tạo từ CloudFomation trong phần 4.2)
 Thay **<REPLACE_AWS_ACCOUNT_ID>** bằng **AWS Account Id** của bạn
 {{% /notice %}}
-![Deploy ImageManager Lambda Function](/images/4-extending-serverless-microservices/4.3-update-lambda-function/update-lambda-function-003.png?featherlight=false&width=90pc)
-3. Kiểm tra lại, chúng ta sẽ thấy S3 trigger xuất hiện.
+![Deploy ImageManager Lambda Function](/images/4-extending-serverless-microservices/4.3-update-lambda-function/update-lambda-function-003.png?featherlight=false&width=60pc)
+4. Kiểm tra lại, chúng ta sẽ thấy S3 trigger xuất hiện.
 ![Deploy ImageManager Lambda Function](/images/4-extending-serverless-microservices/4.3-update-lambda-function/update-lambda-function-004.png?featherlight=false&width=90pc)

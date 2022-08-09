@@ -24,6 +24,6 @@ Repalce **<REPLACE_LAMBDA_FUNCTION_NAME>** with the name of the **Lambda Functio
 Repalce **<REPLACE_S3_BUCKET_NAME>** with **idevelop-imagemanager-<YOUR_ACCOUNT_ID>** (The name of the S3 bucket was created from CloudFomation in the section 4.2)
 Repalce **<REPLACE_AWS_ACCOUNT_ID>** with your **AWS Account Id**
 {{% /notice %}}
-![Deploy ImageManager Lambda Function](/images/4-extending-serverless-microservices/4.3-update-lambda-function/update-lambda-function-003.png?featherlight=false&width=90pc)
-3. if you recheck, you will see the S3 trigger listed.
+![Deploy ImageManager Lambda Function](/images/4-extending-serverless-microservices/4.3-update-lambda-function/update-lambda-function-003.png?featherlight=false&width=60pc)
+4. if you recheck, you will see the S3 trigger listed.
 ![Deploy ImageManager Lambda Function](/images/4-extending-serverless-microservices/4.3-update-lambda-function/update-lambda-function-004.png?featherlight=false&width=90pc)

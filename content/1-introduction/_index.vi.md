@@ -9,7 +9,7 @@ pre = "<b>1. </b>"
 
 Trong phần này, bạn sẽ học cách tạo một hàm AWS Lambda được kích hoạt khi có tập tin được tải lên Amazon S3 Bucket. Bạn sẽ tải đoạn mã nguồn lên hàm Lambda, sau đó kết nối thủ công tới một trình kích hoạt sự kiện S3 để gọi hàm và xem log đầu ra. Sau đó, bạn sẽ chỉnh sửa lại code và thêm các chức năng cho phép nó xử lý các loại tập tin khác nhau - cụ thể là tạo hình thu nhỏ cho các hình ảnh JPG và xóa tất cả các loại tệp khác. Cuối cùng, bạn sẽ tạo một gói triển khai và tự động hóa việc triển khai hàm cũng như các trình kích hoạt liên quan và S3 bucket, sử dụng AWS CLI. 
 
-![Architecture](/images/1-introduction/info.png?featherlight=false&width=90pc)
+![Architecture](/images/1-introduction/info.png?featherlight=false&width=60pc)
 
 Phiên bản cuối cùng của hàm AWS Lambda thực hiện những nhiệm vụ sau đây:
 * Đầu tiên, tải một tập tin lên S3 bucket.
